@@ -6,4 +6,4 @@ This repository stores Java learning documents and standard code snippets for pe
 - code-snippets/java-basic: Demo Java entity class code with English comments
 
 ## Content Description
-All files are written in English to meet open-source repository standard for resume and overseas study application.
+All files are written in English to follow standard open-source conventions.
